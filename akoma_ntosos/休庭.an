@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<akomaNtoso>
+  <debate name="hansard">
+    <meta>
+    <references source="#">
+      <TLCPerson id="戴斌" showAs="戴斌" href="/ontology/person/戴斌" />
+    </references>
+    </meta>
+    <preface>
+      <docTitle>李明哲案2017-09-11審理庭</docTitle>
+    </preface>
+    <debateBody>
+      <debateSection>
+        <heading>休庭</heading>
+        <speech by="#戴斌">
+          <from>戴斌</from>
+          <p>岳陽市人民檢察院指控彭宇華、李明哲顛覆國家政權一案，經過法庭調查、法庭辯論，和被告人最後陳述，本次庭審需要審理的全部事項，已經完成。</p>
+          <p>合議庭將在休庭後，根據庭審查明的事實和證據，依法評議，擇期宣判。宣判的時間和地點，另行通知。現在休庭，被告人退庭。</p>
+        </speech>
+        <narrative>（休庭）</narrative>
+      </debateSection>
+    </debateBody>
+  </debate>
+</akomaNtoso>

@@ -1,0 +1,182 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<akomaNtoso>
+  <debate name="hansard">
+    <meta>
+    <references source="#">
+      <TLCPerson id="戴斌" showAs="戴斌" href="/ontology/person/戴斌" />
+      <TLCPerson id="彭宇華" showAs="彭宇華" href="/ontology/person/彭宇華" />
+      <TLCPerson id="余纓" showAs="余纓" href="/ontology/person/余纓" />
+      <TLCPerson id="鄧松" showAs="鄧松" href="/ontology/person/鄧松" />
+      <TLCPerson id="李明哲" showAs="李明哲" href="/ontology/person/李明哲" />
+      <TLCPerson id="張國輝" showAs="張國輝" href="/ontology/person/張國輝" />
+      <TLCPerson id="張忠偉" showAs="張忠偉" href="/ontology/person/張忠偉" />
+    </references>
+    </meta>
+    <preface>
+      <docTitle>李明哲案2017-09-11審理庭</docTitle>
+    </preface>
+    <debateBody>
+      <debateSection>
+        <heading>告知義務</heading>
+        <narrative>地點：中華人民共和國湖南省岳陽中級人民法院</narrative>
+        <speech by="#戴斌">
+          <from>戴斌</from>
+          <p>湖南省岳陽市中級人民法院刑事審判第一庭現在開庭，傳被告人彭宇華、李明哲到庭。</p>
+        </speech>
+        <speech by="#戴斌">
+          <from>戴斌</from>
+          <p>被告人彭宇華，你是否收到岳陽市人民檢察院的起訴書副本？</p>
+        </speech>
+        <speech by="#彭宇華">
+          <from>彭宇華</from>
+          <p>收到。</p>
+        </speech>
+        <speech by="#戴斌">
+          <from>戴斌</from>
+          <p>什麼時候收到的？</p>
+        </speech>
+        <speech by="#彭宇華">
+          <from>彭宇華</from>
+          <p>8月7號。</p>
+        </speech>
+        <speech by="#戴斌">
+          <from>戴斌</from>
+          <p>起訴書載明你的身份情況、採取強制措施的情況，是否屬實？</p>
+        </speech>
+        <speech by="#彭宇華">
+          <from>彭宇華</from>
+          <p>屬實。</p>
+        </speech>
+        <speech by="#戴斌">
+          <from>戴斌</from>
+          <p>你以前受過刑事處罰沒有？</p>
+          <p>彭宇華：沒有。</p>
+          <p>戴斌：彭宇華的辯護人，什麼時候收到起訴書副本的？</p>
+        </speech>
+        <speech by="#余纓">
+          <from>余纓</from>
+          <p>8月7號。</p>
+        </speech>
+        <speech by="#鄧松">
+          <from>鄧松</from>
+          <p>8月7號。</p>
+        </speech>
+        <speech by="#戴斌">
+          <from>戴斌</from>
+          <p>被告人李明哲，你是否收到岳陽市人民檢察院的起訴書副本？</p>
+        </speech>
+        <speech by="#彭宇華">
+          <from>彭宇華</from>
+          <p>收到。</p>
+        </speech>
+        <speech by="#戴斌">
+          <from>戴斌</from>
+          <p>什麼時侯收到的？</p>
+        </speech>
+        <speech by="#李明哲">
+          <from>李明哲</from>
+          <p>8月7號。</p>
+        </speech>
+        <speech by="#戴斌">
+          <from>戴斌</from>
+          <p>起訴書載明你的身份情況和採取強制措施的情況，是否屬實？</p>
+        </speech>
+        <speech by="#李明哲">
+          <from>李明哲</from>
+          <p>屬實。</p>
+        </speech>
+        <speech by="#戴斌">
+          <from>戴斌</from>
+          <p>你以前受過刑事處罰沒有？</p>
+        </speech>
+        <speech by="#李明哲">
+          <from>李明哲</from>
+          <p>沒有。</p>
+        </speech>
+        <speech by="#戴斌">
+          <from>戴斌</from>
+          <p>李明哲的辯護人甚麼時候收到起訴書副本的？</p>
+        </speech>
+        <speech by="#張國輝">
+          <from>張國輝</from>
+          <p>8月7號。</p>
+        </speech>
+        <speech by="#張忠偉">
+          <from>張忠偉</from>
+          <p>8月7號。</p>
+        </speech>
+        <speech by="#戴斌">
+          <from>戴斌</from>
+          <p>岳陽市人民檢察院以岳檢公二刑訴[2017]7號起訴書指控被告人彭宇華、李明哲犯顛覆國家政權罪，於2017年8月4日向本院提起公訴。湖南省髙級人民法院以（2017）湘刑轄119號指定管轄決定書，指定本案由本院管轄。本院受理後，依法組成合議庭，今天在此公開開庭審理本案。現在宣布合議庭組成人員、公訴人、書記員、辯護人名單。本庭的審判長由岳陽市中級人民法院審判員戴斌也就是我擔任，與審判員李強斌、湯洪清組成合議庭，書記員張瓊花、代理書記員喻蓓蓓擔任法庭記錄。岳陽市人民檢察院指派檢察員黃翔、袁帥，代理檢察員鐘池海出庭支持公訴，書記員楊九州擔任公訴人記錄。</p>
+          <p>被告人彭宇華委託的湖南昌言律師事務所余纓律師，湖南唯平律師事務所鄧松律師出庭為彭宇華辯護，受被告人李明哲委託的湖南岳州律師事務所張國輝律師，張忠偉律師出庭為李明哲辯護。</p>
+          <p>被告人、辯護人在今天的法庭上享有以下訴訟權利。</p>
+          <p>一、申請迴避的權利。</p>
+          <p>二、提供證據的權利。</p>
+          <p>三、被告人有辯護的權利。</p>
+          <p>四、被告人在法庭辯論終結後有最後陳述的權利。</p>
+          <p>被告人彭宇華以上訴訟權利聽清楚沒有？</p>
+        </speech>
+        <speech by="#彭宇華">
+          <from>彭宇華</from>
+          <p>聽清楚了。</p>
+        </speech>
+        <speech by="#戴斌">
+          <from>戴斌</from>
+          <p>是否申請迴避？</p>
+        </speech>
+        <speech by="#彭宇華">
+          <from>彭宇華</from>
+          <p>不申請。</p>
+        </speech>
+        <speech by="#戴斌">
+          <from>戴斌</from>
+          <p>彭宇華的辯護人是否申請迴避？</p>
+        </speech>
+        <speech by="#余纓">
+          <from>余纓</from>
+          <p>不申請。</p>
+        </speech>
+        <speech by="#鄧松">
+          <from>鄧松</from>
+          <p>不申請</p>
+        </speech>
+        <speech by="#戴斌">
+          <from>戴斌</from>
+          <p>被告人李明哲，以上訴訟權利聽清楚沒有？</p>
+        </speech>
+        <speech by="#李明哲">
+          <from>李明哲</from>
+          <p>聽清楚了。</p>
+        </speech>
+        <speech by="#戴斌">
+          <from>戴斌</from>
+          <p>是否申請迴避？</p>
+        </speech>
+        <speech by="#李明哲">
+          <from>李明哲</from>
+          <p>不申請。</p>
+        </speech>
+        <speech by="#戴斌">
+          <from>戴斌</from>
+          <p>李明哲的辯護人是否申請迴避？</p>
+        </speech>
+        <speech by="#張國輝">
+          <from>張國輝</from>
+          <p>不申請</p>
+        </speech>
+        <speech by="#張忠偉">
+          <from>張忠偉</from>
+          <p>不申請。</p>
+        </speech>
+        <speech by="#戴斌">
+          <from>戴斌</from>
+          <p>本庭於2017年8月11號組織控辯雙方召開了庭前會議，明確了以下事項：</p>
+          <p>一、辯方對案件管轄公開審理不持異議。</p>
+          <p>二、辯方不申請啟動排非（非法證據排除——編者註）程序。</p>
+          <p>三、辯方不申請調取新的證據、不申請重新鑑定勘驗、檢查，不申請證人出庭。</p>
+          <p>四、組織控辯雙方展示了相關證據材料，對庭審、舉證、質證的順序和方式達成了一致意見。</p>
+        </speech>
+      </debateSection>
+    </debateBody>
+  </debate>
+</akomaNtoso>
